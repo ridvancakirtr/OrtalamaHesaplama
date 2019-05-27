@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OrtalamaHesaplama</string>
+    <string name="sil">Sil</string>
+    <string name="ders">Ders</string>
+    <string name="dersseciniz">Ders Seçiniz</string>
+    <string name="hesapla">Hesapla</string>
+</resources>
